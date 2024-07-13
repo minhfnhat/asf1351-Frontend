@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock the True Potential of Your Work with Innovative Solutions",
+        "title": "Elevate Your Productivity"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the True Potential of Your Work with Innovative Solutions",
+        "title": "Elevate Your Productivity"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock the True Potential of Your Work with Innovative Solutions",
+        "title": "Elevate Your Productivity"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock the True Potential of Your Work with Innovative Solutions",
+        "title": "Elevate Your Productivity"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the True Potential of Your Work with Innovative Solutions",
+        "title": "Elevate Your Productivity"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock the True Potential of Your Work with Innovative Solutions",
+        "title": "Elevate Your Productivity"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock the True Potential of Your Work with Innovative Solutions",
+        "title": "Elevate Your Productivity"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock the True Potential of Your Work with Innovative Solutions",
+        "title": "Elevate Your Productivity"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Productivity",
+  "subtitle": "Unlock the True Potential of Your Work with Innovative Solutions"
+}
